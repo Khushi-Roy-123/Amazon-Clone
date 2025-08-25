@@ -5,9 +5,9 @@ This was created as a practice project while learning web development.
 
 ---
 
-## 📸 Preview
+## 📸 Preview Link
 
-(http://127.0.0.1:5500/) <!-- Replace with actual preview image if needed -->
+http://127.0.0.1:5500/index.html<!-- Replace with actual preview image if needed -->
 
 ---
 
