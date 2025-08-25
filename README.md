@@ -7,7 +7,7 @@ This was created as a practice project while learning web development.
 
 ## 📸 Preview
 
-![Amazon Clone Preview](http://127.0.0.1:5500/) <!-- Replace with actual preview image if needed -->
+(http://127.0.0.1:5500/) <!-- Replace with actual preview image if needed -->
 
 ---
 
